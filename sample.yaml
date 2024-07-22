@@ -1,0 +1,99 @@
+created_by: GSI Labs
+seed_examples:
+- answer: '0.6, 0.3'
+  context: '0.6
+Shaheen Afridi to Rohit, no run, loud shout for lbw is turned down! Full and slanting into middle-stump, Rohit looked to flick it across the line again and was struck on the pad, might''ve just pitched outside the line of leg-stump, Babar also seemed to suggest there was bat, no review taken
+0.5
+Shaheen Afridi to Rohit, no run, full on off-stump, Rohit prods forward and steers it towards point
+0.4
+Shaheen Afridi to Rohit, no run, length delivery slanting across outside off, Rohit is happy to leave that alone
+0.3
+Shaheen Afridi to Rohit, SIX, picked up and dunked into the stands! That''s trademark Rohit! Full and drifting into the pads, Rohit simply loves it there, he let it come and just flicked it away over the deep square leg ropes effortlessly, tremendous shot!
+0.2
+Shaheen Afridi to Rohit, no run, good length delivery on off-stump, Rohit gets right behind it as he blocks it into the off-side
+0.1
+Shaheen Afridi to Rohit, 2 runs, full and shaping into the pads, clipped away to square leg and loud cheers as India get their first runs, the outfield is expectedly extremely slow, almost came to a complete stop just past the circle'
+  question: For the given list of overs bowled, generate higlights of the overs which will include balls which were hit for six, four or there was a wicket attempt or some injury happend or some milestone reached or no ball was bowled.
+- answer: '19.6, 19.5, 19.4, 19.1'
+  context: '19.6
+Arshdeep Singh to Naseem Shah, 1 run, Arshdeep finishes it off with another yorker as India stage a brilliant defence of their total of 119. Nothing Naseem can do other than squeeze it down the pitch. Pakistan''s fate in this tournament is now hanging by a thread
+19.5
+Arshdeep Singh to Naseem Shah, FOUR, he''s struck this well, goes high but it''s not long enough! Pakistan are going to fall short. Full outside off, Naseem swings hard and hammers it over cover. It goes on the bounce over the ropes despite a desperate dive from Kohli in the deep
+19.4
+Arshdeep Singh to Naseem Shah, FOUR, some life still left as Naseem pulls off a lovely scoop! He bends across anticipating the yorker, takes it on the full and helps it over short fine
+19.3
+Arshdeep Singh to Shaheen Afridi, leg byes, 1 run, absolutely brilliant from Arshdeep. This is superb bowling under pressure. Nails the yorker, it tails in late and hits Shaheen on the toes. Would''ve missed leg stump
+Pakistan need 17 off 4 balls. WIll Shaheen produce something special?
+19.2
+Arshdeep Singh to Naseem Shah, 1 run, full delivery on off, Naseem fails to get under it as he hammers it to long-off
+Naseem Shah, right handed bat, comes to the crease
+19.1
+Arshdeep Singh to Imad Wasim, out Caught by Pant!! Cracking yorker following Wasim down the leg-side. He looks to swing but misses, and it goes through to Pant. The two batters manage to nab a bye. Oh the umpire has given it out for caught behind. Did he get an inside edge on it? That''s a cracking decision from umpire Illingworth as UltraEdge confirms there was an inside edge. The task getting harder and harder for Pakistan now. Imad Wasim c Pant b Arshdeep Singh 15(23) [4s-1]'
+  question: For the given list of overs bowled, generate higlights of the overs which will include balls which were hit for six, four or there was a wicket attempt or some injury happend or some milestone reached or no ball was bowled.
+- answer: '17.2, 16.3'
+  context: '17.6
+Siraj to Imad Wasim, 1 run, good yorker on middle, Wasim squeezes it down the pitch and gets a single as Siraj fails to cut it off as he tumbles across
+17.5
+Siraj to Iftikhar Ahmed, 1 run, back of a length on middle, 145.8kph, Iftikhar tucks it gently into the vacant midwicket region and Siraj bolts after it himself. He does well to keep them to a single. Should they have gone for the second there? Opportunity was there
+17.5
+Siraj to Iftikhar Ahmed, wide, banged in short, but it''s down the leg-side and it''s too high as well. Iftikhar lets it go. Called as wide
+Boundaries have dried up for Pakistan. Previous one was in the 14th over
+17.4
+Siraj to Imad Wasim, 1 run, low full toss outside off, Wasim slices it to deep point
+17.3
+Siraj to Iftikhar Ahmed, 1 run, back of a length outside off, Iftikhar chops it to backward point
+17.2
+Siraj to Iftikhar Ahmed, 2 runs, fairly high full toss outside off, Iftikhar powers it through extra cover and gets an easy two
+17.2
+Siraj to Iftikhar Ahmed, no ball, full and straight, Iftikhar knocks it gently down the pitch and it hits the stumps at the other end. Oh dear, third umpire finds that Siraj has overstepped. Free hit coming up
+Change of field for Iftikhar. Long-on and long-off back, while fine leg and third in the ring
+17.1
+Siraj to Imad Wasim, 1 run, back of a length across off, Wasim mistimes the cut to deep point
+Mohammed Siraj [3.0-0-10-0] is back into the attack
+Three overs left, with one each for the three frontline seamers. Siraj first. Mid-off in the ring
+16.6
+Hardik Pandya to Imad Wasim, 1 run, Hardik tries the bluff as he goes full with mid-off in the ring. Wasim looks to loft down the ground but miscues it off the inside half through midwicket
+Hardik and Rohit having a chat about the field. There are as many as four in the deep on the leg-side. Only one deep on the off-side is backward point
+16.5
+Hardik Pandya to Imad Wasim, no run, short of length on leg, cramps Wasim as he backs away to cut and beats him on the way to thge keeper. India are thinking about a review but Rohit says he didn''t hear anything
+16.4
+Hardik Pandya to Iftikhar Ahmed, 1 run, back of a length outside off, Iftikhar cuts to deep point
+Iftikhar Ahmed, right handed bat, comes to the crease
+16.3
+Hardik Pandya to Shadab Khan, out Caught by Pant!! Hardik shrugs his shoulders in celebration as he bounces another batter out. Massive roar at Nassau County. Banged in short, follows Shadab as he backs away and gets good height on it. The ball gets big on Shadab as he goes for the pull and balloons off the top-edge. No mistake from Pant running to his left. Nerves jangling now for Pakistan. Shadab Khan c Pant b Hardik Pandya 4(7)
+Hardik Pandya to Shadab Khan, THATS OUT!! Caught!!
+16.2
+Hardik Pandya to Shadab Khan, 2 runs, good running. Back of a length on leg, Shadab tucks it into the vacant midwicket region, sees the opportunity and charges back for two. Fielder had to come in a long way from the boundary as Shadab had played it quite gently
+16.1
+Hardik Pandya to Imad Wasim, 1 run, fuller than a length on leg, following Wasim as he backs away. He clears the front leg and drives hard to long-on'
+  question: For the given list of overs bowled, generate higlights of the overs which will include balls which were hit for six, four or there was a wicket attempt or some injury happend or some milestone reached or no ball was bowled.
+- answer: '13.6'
+  context: '13.6
+Mustafizur to Miller, SIX, a shot of supreme quality! Full on off-stump, just a shade overpitched and this was just a check-drive from Miller, was struck on the up and he timed it so sweetly, went high and far over long-off, such a difficult shot on this deck because he had to trust the pace
+13.5
+Mustafizur to Klaasen, 1 run, slower length delivery outside off, chopped away to deep backward point
+13.4
+Mustafizur to Miller, leg byes, 1 run, full and drifting into the pads, Miller looks to clip it into the leg-side and it goes towards square leg off the pad, that''s the 50-run stand
+13.3
+Mustafizur to Miller, no run, length delivery outside off, slapped straight to cover
+13.2
+Mustafizur to Miller, no run, back of a length outside off, Miller is happy to let that sail through
+13.1
+Mustafizur to Miller, no run, full on middle, driven straight back and it hits the stumps at the other end'
+  question: For the given list of overs bowled, generate higlights of the overs which will include balls which were hit for six, four or there was a wicket attempt or some injury happend or some milestone reached or some milestone reached or no ball was bowled.
+- answer: '1.6, 1.2, 1.1'
+  context: '1.6
+Rabada to Tanzid Hasan, out Caught by de Kock!! Edged & taken!! A length ball from Rabada, angling outside off and Tanzid slashed at it. Gets an edge through to the keeper. A tepid appeal from Rabada and no real appeal from keeper or slips. Was surprising since there was a clear sound as the ball passed the bat. Tanzid Hasan waits for a bit, asks his partner if it is worth a review and then chooses to walk. Tanzid Hasan c de Kock b Rabada 9(9) [4s-2]
+Rabada to Tanzid Hasan, THATS OUT!! Caught!!
+1.5
+Rabada to Tanzid Hasan, no run, fuller and skids through to off stump. Hasan slightly late on his defence towards backward point
+1.4
+Rabada to Tanzid Hasan, no run, 144.3 clicks, pitched up onto off stump, driven towards covers
+1.3
+Rabada to Tanzid Hasan, no run, fuller on fourth stump, defended
+1.2
+Rabada to Tanzid Hasan, FOUR, full and wide once again, Tanzid greatfully reaches out and drives it much more square this time. A bit uppish but between point and backward point for a boundary
+1.1
+Rabada to Tanzid Hasan, FOUR, some intent from Tanzid!! Pitched up and offering too much width, Tanzid goes reaching and drives it through covers for a boundary'
+  question: For the given list of overs bowled, generate higlights of the overs which will include balls which were hit for six, four or there was a wicket attempt or some injury happend or some milestone reached or no ball was bowled.
+task_description: Generate match highlights with just the over number where some event happened.
